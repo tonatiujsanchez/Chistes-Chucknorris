@@ -1,28 +1,9 @@
 # Webpack Starter
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+App chistes de chucknorris
 
 ### Notas:
-Se necesita reconstruir los modulos de Node
-ulizando el siguiente comando:
-```
-npm install
+Aplicacin desarrollada con Javascript.
 
-```
-
-Para contruir el build de produccion utilizar el siguiente comando:
-
-```
-npm run build
-```
-
-y para la construcción el build de desarrollo, utilizar el siguiente comando:
-
-```
-npm run build:dev
-```
-
-El siguiente comando es para iniciar el proyecto:
-```
-npm start
-```
+Se utilizó Webpack y http parahacer la peticion a la API de https://api.chucknorris.io/.
+Tambien se utilizó Babel para la compatibilidad con navegadores antiguos. 
