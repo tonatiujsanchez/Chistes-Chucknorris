@@ -1,6 +1,4 @@
-# Webpack Starter
-
-App chistes de chucknorris
+# App chistes de chucknorris
 
 ### Notas:
 Aplicacin desarrollada con Javascript.
